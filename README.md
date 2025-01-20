@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sanchala Liyanage🤍</h1>
-<h3 align="center">Software Engineering Undergraduate Student at NIBM</h3> <br>
+<h3 align="center">A Software Engineering Undergraduate Student at NIBM</h3> <br>
 
 
 - 🌱 I’m currently learning **cloud computing and its applications.**
