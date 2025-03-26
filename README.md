@@ -29,13 +29,6 @@
 
 ---
 
-## 🏆 GitHub Achievements:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanchalaLiyanage&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
-
----
-
 # 📊 GitHub Stats:
 <div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchalaliyanage&show_icons=true&locale=en&layout=compact" alt="sanchalaliyanage" /></p>
