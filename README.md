@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sanchala%20Liyanage&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20|%20Cloud%20Computing%20|%20Innovation&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanchala%20Liyanage&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20|%20Cloud%20Computing%20|%20Innovation&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=Turning+Coffee+into+Code;Full+Stack+Developer+%26+UI/UX+Designer;Cloud+Computing+Enthusiast;Let's+innovate+together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Turning+Coffee+into+Code;Full+Stack+Developer+%26+UI/UX+Designer;Cloud+Computing+Enthusiast;Let's+innovate+together!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@
           <a href="https://www.python.org/" target="_blank">
             <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
           </a>
-          <a href="https://docs.microsoft.com/en-US/dotnet/csharp/" target="_blank">
+          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
             <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
           </a>
           <a href="https://dotnet.microsoft.com/" target="_blank">
@@ -153,108 +153,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchalaLiyanage&theme=react&hide_border=true&border_radius=10&fire=FF4500&ring=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SanchalaLiyanage&show_icons=true&theme=react&hide_border=true&border_radius=10&custom_title=My%20GitHub%20Journey" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchalaLiyanage&theme=tokyonight&hide_border=true&border_radius=10&fire=FF4500&ring=4C71F2&currStreakLabel=4C71F2" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SanchalaLiyanage&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=My%20GitHub%20Journey" alt="GitHub Stats" width="400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchalaLiyanage&layout=donut-vertical&theme=react&hide_border=true&border_radius=10" alt="Top Languages" width="330"/>
-</div>
-
-<br>
-
-## 🏆 Licenses & Certifications
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Learning" />
-          <p>Full-Stack Web Developer</p>
-        </a>
-      </td>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-          <p>Docker Foundations Professional Certificate</p>
-        </a>
-      </td>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Atlassian" />
-          <p>Agile Project Management Professional Certificate</p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          <p>Career Essentials Professional Certificate</p>
-        </a>
-      </td>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Mozilla-FF7139?style=for-the-badge&logo=mozilla&logoColor=white" alt="Mozilla" />
-          <p>JavaScript Foundations Professional Certificate</p>
-        </a>
-      </td>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-          <p>API Fundamentals Student Expert</p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-          <p>Database Programming with PL/SQL</p>
-        </a>
-      </td>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/Harvard-A41034?style=for-the-badge&logo=harvard-university&logoColor=white" alt="Harvard" />
-          <p>CS50: Introduction to Computer Science</p>
-        </a>
-      </td>
-      <td>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains" />
-          <p>Java Foundations Professional Certificate</p>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center">
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-          <p>GitHub Foundations</p>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchalaLiyanage&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="330"/>
 </div>
 
 <br>
 
-## 🎓 Academic Achievements
+## 🌟 Certifications & Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/NIBM-Software_Engineering-0EA5E9?style=for-the-badge" alt="NIBM Software Engineering"/>
-        <p><b>Undergraduate Student</b> - <i>Ongoing</i></p>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Academic_Excellence-Dean's_List-0EA5E9?style=for-the-badge" alt="Dean's List"/>
-        <p><b>Recognition for Academic Performance</b> - <i>Ongoing</i></p>
-      </td>
-    </tr>
-  </table>
+  <details>
+    <summary><h3>🏆 Click to view my badges & certifications</h3></summary>
+    <a href="https://www.credly.com/badges/17077b43-9bd4-4258-99fe-f2896ec0f6b2/public_url">
+      <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="180"/>
+    </a>
+    <p><i>GitHub Foundations - A certification validating core GitHub skills</i></p>
+    <!-- Add more certificates as you earn them -->
+  </details>
 </div>
 
 <br>
@@ -263,10 +182,10 @@
 
 <div align="center">
   <a href="https://github.com/SanchalaLiyanage/Project1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanchalaLiyanage&repo=Project1&theme=react&bg_color=1F222E&title_color=0EA5E9&icon_color=0EA5E9&hide_border=true" alt="Project 1" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanchalaLiyanage&repo=Project1&theme=react&bg_color=0D1117&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/SanchalaLiyanage/Project2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanchalaLiyanage&repo=Project2&theme=react&bg_color=1F222E&title_color=0EA5E9&icon_color=0EA5E9&hide_border=true" alt="Project 2" />
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanchalaLiyanage&repo=Project2&theme=react&bg_color=0D1117&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
@@ -279,7 +198,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchalaLiyanage&bg_color=1F222E&color=0EA5E9&line=0EA5E9&point=FFFFFF&hide_border=true" alt="Activity Graph" width="92%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchalaLiyanage&bg_color=0D1117&color=5BCDEC&line=6675F0&point=FFFFFF&hide_border=true" alt="Activity Graph" width="92%"/>
 </div>
 
 <br>
@@ -304,15 +223,15 @@
 <br>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SanchalaLiyanage&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=SanchalaLiyanage&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote" width="600"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="600"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
 </div>
 
 <!-- Note: You may need to set up the snake animation workflow in your repository -->
