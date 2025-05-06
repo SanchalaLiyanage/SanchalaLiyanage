@@ -1,238 +1,142 @@
+# <div align="center">✨ Sanchala Liyanage ✨</div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sanchala%20Liyanage&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20|%20Cloud%20Computing%20|%20Innovation&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3C93F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Cloud+Computing+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+
+  <div align="center">
+    <img src="https://img.shields.io/badge/Focus-Cloud_Computing-3C93F7?style=for-the-badge&logoColor=white" alt="Focus Badge"/>
+    <img src="https://img.shields.io/badge/NIBM-Software_Engineering_Undergraduate-3C93F7?style=for-the-badge&logoColor=white" alt="Education Badge"/>
+    <img src="https://komarev.com/ghpvc/?username=SanchalaLiyanage&label=Profile%20Views&color=3C93F7&style=for-the-badge" alt="Profile Views"/>
+  </div>
 </div>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Turning+Coffee+into+Code;Full+Stack+Developer+%26+UI/UX+Designer;Cloud+Computing+Enthusiast;Let's+innovate+together!" alt="Typing SVG" />
+<br/>
+
+## 👨‍💻 About Me
+
+```javascript
+const sanchala = {
+    education: "Software Engineering @ NIBM",
+    currentFocus: "Cloud Computing & Applications",
+    interests: ["Full Stack Development", "Cloud Architecture", "Mobile Apps"],
+    funFact: "I transform caffeine into code!"
+};
+```
+
+I'm a passionate software engineering student with a particular interest in cloud technologies. I love building applications that solve real-world problems and am constantly exploring new technologies to expand my skillset.
+
+- 🌱 Currently diving deep into **cloud computing and its applications**
+- 🔭 Working on projects that combine web, mobile, and cloud technologies
+- 📚 Always learning and exploring new tech stacks
+- 💬 Let's talk about software architecture, cloud solutions, or your latest project!
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br/>
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchalaLiyanage&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanchalaLiyanage&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchalaLiyanage&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="180px"/>
+</div>
+
+<br/>
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+  <a href="https://www.credly.com/badges/17077b43-9bd4-4258-99fe-f2896ec0f6b2/public_url">
+    <img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110px"/>
   </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanchalaLiyanage&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="Trophy" />
+  <!-- Add more certifications as you earn them -->
 </div>
 
-<br>
+<br/>
 
-## 🌌 About Me
-
-<table>
-  <tr>
-    <td width="55%">
-      <h3>Code & Cloud Explorer</h3>
-      <p>
-        I'm a passionate Software Engineering student at NIBM, navigating the vast universe of code and cloud technology. Currently orbiting around cloud computing and its applications, I'm on a mission to create software solutions that make a difference.
-      </p>
-      <p>
-        When I'm not coding, you might find me designing intuitive user interfaces, experimenting with new technologies, or sharing knowledge with fellow tech enthusiasts.
-      </p>
-      <ul>
-        <li>🚀 Building tomorrow's solutions with today's technologies</li>
-        <li>☁️ Cloud computing aficionado with a passion for scalable architecture</li>
-        <li>🌱 Constantly growing my technical garden of skills</li>
-        <li>💡 Believer in elegant, efficient, and user-centered design</li>
-      </ul>
-    </td>
-    <td width="45%">
-      <div align="center">
-        <img src="https://api.daily.dev/devcards/v2/UBPWxrvKUFrWNAMGFwx1z.png?r=75p&type=wide" width="100%" alt="Daily Dev Card"/>
-        <br><br>
-        <a href="mailto:sanchliyanage.info@gmail.com">
-          <img src="https://img.shields.io/badge/Email_Me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a>
-        <a href="https://linkedin.com/in/navodi-sanchala-liyanage">
-          <img src="https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## ⚡ My Digital Toolbox
+## 📈 Contribution Graph
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend Universe</h3>
-        <div align="center">
-          <a href="https://reactjs.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-          </a>
-          <a href="https://www.w3.org/html/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-          </a>
-          <a href="https://www.w3schools.com/css/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-          </a>
-          <a href="https://getbootstrap.com" target="_blank">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-          </a>
-          <a href="https://flutter.dev/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-          </a>
-          <a href="https://dart.dev/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-          </a>
-          <a href="https://www.figma.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-          </a>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend Galaxy</h3>
-        <div align="center">
-          <a href="https://nodejs.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-          </a>
-          <a href="https://www.java.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-          </a>
-          <a href="https://www.python.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-          </a>
-          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-          </a>
-          <a href="https://dotnet.microsoft.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-          </a>
-          <a href="https://www.php.net/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-          </a>
-          <a href="https://spring.io/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-          </a>
-          <a href="https://firebase.google.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-          </a>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">DevOps Nebula</h3>
-        <div align="center">
-          <a href="https://aws.amazon.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-          </a>
-          <a href="https://www.docker.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-          </a>
-          <a href="https://git-scm.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-          </a>
-          <a href="https://github.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-          </a>
-          <a href="https://www.linux.org/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-          </a>
-          <a href="https://www.mongodb.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-          </a>
-          <a href="https://www.mysql.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-          </a>
-          <a href="https://www.oracle.com/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" alt="Oracle" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchalaLiyanage&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 </div>
 
-<br>
+<br/>
 
-## 📊 GitHub Analytics
+## 🔝 Top Repositories
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanchalaLiyanage&theme=tokyonight&hide_border=true&border_radius=10&fire=FF4500&ring=4C71F2&currStreakLabel=4C71F2" alt="GitHub Streak" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SanchalaLiyanage&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=My%20GitHub%20Journey" alt="GitHub Stats" width="400" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=SanchalaLiyanage&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchalaLiyanage&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" width="330"/>
-</div>
+<br/>
 
-<br>
-
-## 🌟 Certifications & Achievements
+## 🤝 Connect With Me
 
 <div align="center">
-  <details>
-    <summary><h3>🏆 Click to view my badges & certifications</h3></summary>
-    <a href="https://www.credly.com/badges/17077b43-9bd4-4258-99fe-f2896ec0f6b2/public_url">
-      <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="180"/>
-    </a>
-    <p><i>GitHub Foundations - A certification validating core GitHub skills</i></p>
-    <!-- Add more certificates as you earn them -->
-  </details>
-</div>
-
-<br>
-
-## 💻 Latest Projects
-
-<div align="center">
-  <a href="https://github.com/SanchalaLiyanage/Project1">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanchalaLiyanage&repo=Project1&theme=react&bg_color=0D1117&hide_border=true" alt="Project 1" />
+  <a href="https://twitter.com/sanchliyanage">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/SanchalaLiyanage/Project2">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=SanchalaLiyanage&repo=Project2&theme=react&bg_color=0D1117&hide_border=true" alt="Project 2" />
+  <a href="https://linkedin.com/in/navodi-sanchala-liyanage">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/sanch.liyanage">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:sanchliyanage.info@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
-<br>
-
-## 🚀 Coding Journey
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SanchalaLiyanage/SanchalaLiyanage/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C93F7&height=120&section=footer" width="100%"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchalaLiyanage&bg_color=0D1117&color=5BCDEC&line=6675F0&point=FFFFFF&hide_border=true" alt="Activity Graph" width="92%"/>
-</div>
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://twitter.com/sanchliyanage" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&style=plastic" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/navodi-sanchala-liyanage" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/sanch.liyanage" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&style=plastic" alt="Instagram" />
-  </a>
-  <a href="mailto:sanchliyanage.info@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="Email" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SanchalaLiyanage&label=Profile%20Views&color=6&icon=5&pretty=true" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="600"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
-</div>
-
-<!-- Note: You may need to set up the snake animation workflow in your repository -->
-<!-- Create a file at .github/workflows/snake.yml for this to work -->
