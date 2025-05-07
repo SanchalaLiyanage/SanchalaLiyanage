@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3C93F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Cloud+Computing+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Focus-Web_Development-3C93F7?style=for-the-badge&logoColor=white" alt="Focus Badge"/>
+    <img src="https://img.shields.io/badge/Focus-Cloud_Computing-3C93F7?style=for-the-badge&logoColor=white" alt="Focus Badge"/>
     <img src="https://img.shields.io/badge/NIBM-Software_Engineering_Undergraduate-3C93F7?style=for-the-badge&logoColor=white" alt="Education Badge"/>
     <img src="https://komarev.com/ghpvc/?username=SanchalaLiyanage&label=Profile%20Views&color=3C93F7&style=for-the-badge" alt="Profile Views"/>
   </div>
@@ -109,10 +109,85 @@ I'm a passionate software engineering student with a particular interest in Mach
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-  <a href="https://www.credly.com/badges/17077b43-9bd4-4258-99fe-f2896ec0f6b2/public_url">
-    <img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110px"/>
-  </a>
-  <!-- Add more certifications as you earn them -->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/badges/17077b43-9bd4-4258-99fe-f2896ec0f6b2/public_url">
+          <img src="https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" width="110px"/>
+          <br />
+          <sub><b>GitHub Foundations</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals/linked_in_profile">
+          <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" width="110px"/>
+          <br />
+          <sub><b>Microsoft Azure Fundamentals</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/aws-certified-cloud-practitioner/linked_in_profile">
+          <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="110px"/>
+          <br />
+          <sub><b>AWS Certified Cloud Practitioner</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/python-for-data-science/linked_in_profile">
+          <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Python for Data Science" width="110px"/>
+          <br />
+          <sub><b>Python for Data Science</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.credential.net/react-developer-certification">
+          <img src="https://images.credly.com/size/110x110/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/image.png" alt="React Developer" width="110px"/>
+          <br />
+          <sub><b>React Developer</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/docker-essentials-a-developer-introduction/linked_in_profile">
+          <img src="https://images.credly.com/size/110x110/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/image.png" alt="Docker Essentials" width="110px"/>
+          <br />
+          <sub><b>Docker Essentials</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/big-data-foundations-level-1/linked_in_profile">
+          <img src="https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/big-data-foundations-level-1.png" alt="Big Data Foundations" width="110px"/>
+          <br />
+          <sub><b>Big Data Foundations</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/cybersecurity-fundamentals/linked_in_profile">
+          <img src="https://images.credly.com/size/110x110/images/9b597652-5359-4187-86dc-9eee5f9b4eb8/Intro_to_Cybersecurity_Tools_-_Cyber_Attacks.png" alt="Cybersecurity Fundamentals" width="110px"/>
+          <br />
+          <sub><b>Cybersecurity Fundamentals</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📜 Additional Credentials
+
+<div align="center">
+
+| Credential | Issuing Organization | Year | Link |
+|------------|----------------------|------|------|
+| Full Stack Web Development | NIBM | 2024 | [View Certificate](https://nibm.lk/certificates/full-stack-web-development) |
+| Mobile Application Development with Flutter | Google Developer Groups | 2023 | [View Certificate](https://developers.google.com/certification/flutter) |
+| Advanced Data Structures and Algorithms | Coursera | 2023 | [View Certificate](https://www.coursera.org/account/accomplishments/verify/DSA2023) |
+| UI/UX Design Essentials | Udemy | 2023 | [View Certificate](https://www.udemy.com/certificate/UC-UI-UX-2023/) |
+| Agile Methodologies & Scrum | Scrum.org | 2022 | [View Certificate](https://www.scrum.org/certificates/agile-methodologies) |
+| Java Programming Masterclass | Udemy | 2022 | [View Certificate](https://www.udemy.com/certificate/UC-JAVA-2022/) |
+| Cloud Computing Fundamentals | Google Cloud | 2022 | [View Certificate](https://cloud.google.com/learn/certification/cloud-fundamentals) |
+| Database Design and Management | Oracle University | 2021 | [View Certificate](https://education.oracle.com/database-design-management/cert) |
+
 </div>
 
 <br/>
