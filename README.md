@@ -113,7 +113,7 @@ I'm a passionate software engineering student with a particular interest in clou
 ## 🔝 Top Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SanchalaLiyanage&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="100%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SanchalaLiyanage&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="70%"/>
 </div>
 
 <br/>
