@@ -118,57 +118,6 @@ I'm a passionate software engineering student with a particular interest in Mach
           <sub><b>GitHub Foundations</b></sub>
         </a>
       </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/microsoft-certified-azure-fundamentals/linked_in_profile">
-          <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamentals" width="110px"/>
-          <br />
-          <sub><b>Microsoft Azure Fundamentals</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/aws-certified-cloud-practitioner/linked_in_profile">
-          <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practitioner" width="110px"/>
-          <br />
-          <sub><b>AWS Certified Cloud Practitioner</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/python-for-data-science/linked_in_profile">
-          <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Python for Data Science" width="110px"/>
-          <br />
-          <sub><b>Python for Data Science</b></sub>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://www.credential.net/react-developer-certification">
-          <img src="https://images.credly.com/size/110x110/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/image.png" alt="React Developer" width="110px"/>
-          <br />
-          <sub><b>React Developer</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/docker-essentials-a-developer-introduction/linked_in_profile">
-          <img src="https://images.credly.com/size/110x110/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/image.png" alt="Docker Essentials" width="110px"/>
-          <br />
-          <sub><b>Docker Essentials</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/big-data-foundations-level-1/linked_in_profile">
-          <img src="https://images.credly.com/size/110x110/images/16d5a420-770b-4699-97ec-46708e3680c5/big-data-foundations-level-1.png" alt="Big Data Foundations" width="110px"/>
-          <br />
-          <sub><b>Big Data Foundations</b></sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.credly.com/badges/cybersecurity-fundamentals/linked_in_profile">
-          <img src="https://images.credly.com/size/110x110/images/9b597652-5359-4187-86dc-9eee5f9b4eb8/Intro_to_Cybersecurity_Tools_-_Cyber_Attacks.png" alt="Cybersecurity Fundamentals" width="110px"/>
-          <br />
-          <sub><b>Cybersecurity Fundamentals</b></sub>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
