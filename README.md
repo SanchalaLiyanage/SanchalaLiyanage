@@ -128,19 +128,20 @@ I'm a passionate software engineering student with a particular interest in Mach
 
 | Credential | Issuing Organization | Year | Link |
 |------------|----------------------|------|------|
-| DevOps Professional Certificate  | PagerDuty and LinkedIn | 2025 | [View Certificate]([https://nibm.lk/certificates/full-stack-web-development](https://www.linkedin.com/learning/certificates/6b99f3733a8172563246b6a01af74b6b1e2c432b2688d3e9196183bf97434006)) |
-| Become a Full-Stack Web Developer | LinkedIn | 2024 | [View Certificate]([https://developers.google.com/certification/flutter](https://www.linkedin.com/learning/certificates/c6bfd12dcb3b7813a8068560ac3d954d384e3d6f433ba7e382da7a477d0c82f1?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B6X2oO9WgTwC2qXHOKw2%2FIQ%3D%3D)) |
-| Career Essentials in Cybersecurity | Microsoft and LinkedIn | 2024 | [View Certificate]([https://www.coursera.org/account/accomplishments/verify/DSA2023](https://www.linkedin.com/learning/certificates/54ef2e0892b55dcbd947709d7031c5e81f3a56de0a3dca7597f25460adfea60d)) |
-| Docker Foundations Professional Certificate | Docker and LinkedIn | 2024 | [View Certificate]([https://www.udemy.com/certificate/UC-UI-UX-2023/](https://www.linkedin.com/learning/certificates/ad6a9bdcd58d1f737198e6aa2a4cb6285f07aed8c4b20631bd8c15eeda8eebb5)) |
-| LambdaTest Test Automation Professional Certificate | LAMBDATEST and LinkedIn | 2024 | [View Certificate]([https://www.scrum.org/certificates/agile-methodologies](https://www.linkedin.com/learning/certificates/e34a9fd3616c3adf0fdd8dc9ad8ebcaa562ee14250569cb101fff4fcedd34453)) |
-| Microservices Foundations Professional Certificate | Kong and LinkedIn | 2024 | [View Certificate]([https://www.udemy.com/certificate/UC-JAVA-2022/](https://www.linkedin.com/learning/certificates/382ec074b3a95c9df19f90c29cc7cd23debeed3ba349892a818ee4ce02c46c1f)) |
-| Atlassian Agile Project Management Professional Certificate | Atlassian and LinkedIn | 2024 | [View Certificate]([https://cloud.google.com/learn/certification/cloud-fundamentals](https://www.linkedin.com/learning/certificates/2fccbb24200034f73d3f521b1703b139bca6323dc3b61a9cd6ecf82c133d7a2e)) |
-| Career Essentials in Generative AI | Microsoft and LinkedIn | 2024 | [View Certificate]([https://education.oracle.com/database-design-management/cert](https://www.linkedin.com/learning/certificates/07367dd54204997402939899a3a45cbdbb21a554c8d3aaf7b429a45b26ba4036)) |
-| Career Essentials in GitHub Professional Certificate | GitHub and Linkedin | 2024 | [View Certificate]([https://education.oracle.com/database-design-management/cert](https://www.linkedin.com/learning/certificates/c3def8bd8779415bf50f5e21a8e08fb08bf0700c6905afd56e63a7987d27d6d4)) |
-| JavaScript Foundations Professional Certificate | Mozilla and LinkedIn | 2024 | [View Certificate]([https://education.oracle.com/database-design-management/cert](https://www.linkedin.com/learning/certificates/f0a7244e88261d9207e1d20923b107d610a7e6b3de7000dfa1f318109a04f725)) |
-| Postman API Fundamentals Student Expert | Postman | 2024 | [View Certificate]([https://education.oracle.com/database-design-management/cert](https://www.linkedin.com/learning/certificates/f0a7244e88261d9207e1d20923b107d610a7e6b3de7000dfa1f318109a04f725)](https://badgr.com/print-certificate/66d734d764ead330566315c7)) |
+| DevOps Professional Certificate  | PagerDuty and LinkedIn | 2025 | [View Certificate](https://www.linkedin.com/learning/certificates/6b99f3733a8172563246b6a01af74b6b1e2c432b2688d3e9196183bf97434006) |
+| Become a Full-Stack Web Developer | LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/c6bfd12dcb3b7813a8068560ac3d954d384e3d6f433ba7e382da7a477d0c82f1) |
+| Career Essentials in Cybersecurity | Microsoft and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/54ef2e0892b55dcbd947709d7031c5e81f3a56de0a3dca7597f25460adfea60d) |
+| Docker Foundations Professional Certificate | Docker and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/ad6a9bdcd58d1f737198e6aa2a4cb6285f07aed8c4b20631bd8c15eeda8eebb5) |
+| LambdaTest Test Automation Professional Certificate | LAMBDATEST and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/e34a9fd3616c3adf0fdd8dc9ad8ebcaa562ee14250569cb101fff4fcedd34453) |
+| Microservices Foundations Professional Certificate | Kong and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/382ec074b3a95c9df19f90c29cc7cd23debeed3ba349892a818ee4ce02c46c1f) |
+| Atlassian Agile Project Management Professional Certificate | Atlassian and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/2fccbb24200034f73d3f521b1703b139bca6323dc3b61a9cd6ecf82c133d7a2e) |
+| Career Essentials in Generative AI | Microsoft and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/07367dd54204997402939899a3a45cbdbb21a554c8d3aaf7b429a45b26ba4036) |
+| Career Essentials in GitHub Professional Certificate | GitHub and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/c3def8bd8779415bf50f5e21a8e08fb08bf0700c6905afd56e63a7987d27d6d4) |
+| JavaScript Foundations Professional Certificate | Mozilla and LinkedIn | 2024 | [View Certificate](https://www.linkedin.com/learning/certificates/f0a7244e88261d9207e1d20923b107d610a7e6b3de7000dfa1f318109a04f725) |
+| Postman API Fundamentals Student Expert | Postman | 2024 | [View Certificate](https://badgr.com/print-certificate/66d734d764ead330566315c7) |
 
 </div>
+
 
 <br/>
 
