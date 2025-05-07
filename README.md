@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3C93F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Student;Cloud+Computing+Enthusiast;Full+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Focus-Cloud_Computing-3C93F7?style=for-the-badge&logoColor=white" alt="Focus Badge"/>
+    <img src="https://img.shields.io/badge/Focus-Web_Development-3C93F7?style=for-the-badge&logoColor=white" alt="Focus Badge"/>
     <img src="https://img.shields.io/badge/NIBM-Software_Engineering_Undergraduate-3C93F7?style=for-the-badge&logoColor=white" alt="Education Badge"/>
     <img src="https://komarev.com/ghpvc/?username=SanchalaLiyanage&label=Profile%20Views&color=3C93F7&style=for-the-badge" alt="Profile Views"/>
   </div>
