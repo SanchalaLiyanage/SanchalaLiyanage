@@ -16,19 +16,20 @@
 
 ```javascript
 const sanchala = {
-    education: "Software Engineering @ NIBM",
-    currentFocus: "Cloud Computing & Applications",
+    education: "Software Engineering Undergraduate @ NIBM",
+    currentFocus: "ML, AI, DevOps & Web Development",
     interests: ["Full Stack Development", "Cloud Architecture", "Mobile Apps"],
     funFact: "I transform caffeine into code!"
 };
+
 ```
 
-I'm a passionate software engineering student with a particular interest in cloud technologies. I love building applications that solve real-world problems and am constantly exploring new technologies to expand my skillset.
+I'm a passionate software engineering student with a particular interest in Machine Learning. I love building applications that solve real-world problems and am constantly exploring new technologies to expand my skillset.
 
-- 🌱 Currently diving deep into **cloud computing and its applications**
-- 🔭 Working on projects that combine web, mobile, and cloud technologies
-- 📚 Always learning and exploring new tech stacks
-- 💬 Let's talk about software architecture, cloud solutions, or your latest project!
+- 🌱 Currently diving deep into **Machine Learning and DevOps Technologies**  
+- 🔭 Working on a **[Parking Booking Management System]([https://github.com/your-username/your-repo](https://github.com/Kelum-Tharindu/GAHDSE241F-ParkWise.git))**  powered by **ML, IoT, MERN, and Flutter**  
+- 📚 Always learning and exploring new tech stacks  
+- 💬 Let's talk about software architecture, edge devices, or your latest innovation!
 
 <br/>
 
